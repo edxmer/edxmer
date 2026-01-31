@@ -1,16 +1,11 @@
-First year CS Student at ELTE
+### First year CS Student at ELTE
 
-<br>
 
-Favourite programming languages:
-- C++
-- C
-- Python
-- Haskell
 
-<br>
+#### Favourite programming languages:
+`C++` `C` `Python` `Haskell`
 
-Interests:
+#### Interests:
 - AI
 - doing fun problems
 - reading books
