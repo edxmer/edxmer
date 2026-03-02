@@ -9,11 +9,7 @@
 ### languages:
   - Hungarian, English, (learning) German, (learning) Japanese
 ### favourite programming languages:
-  - `python`
-  - `c`
-  - `c++`
-  - `c#`
-  - `html/css/js`
+  - `python` `c` `c++` `c#` `html/css/js`
 
 ## Contact me
 email: `edomer@student.elte.hu`
