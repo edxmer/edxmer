@@ -4,6 +4,7 @@
   - doing intersting projects, solving interesting problems
   - reading
   - AI
+  - maths
   - healthcare
   - robotics
   - automation
