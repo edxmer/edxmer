@@ -5,7 +5,7 @@
   - reading
   - AI
   - maths
-  - healthcare
+  - healthcare/medical science
   - robotics
   - automation
   - game dev
