@@ -10,7 +10,8 @@
   - automation
   - game dev
 ### languages:
-Hungarian, English, (learning) German, (learning) Japanese
+- Fluent: Hungarian, English
+- Learning: German, Japanese
 ### favourite programming languages:
 `python` `c` `c++` `c#` `html/css/js`
 
