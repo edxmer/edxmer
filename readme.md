@@ -1,10 +1,10 @@
 ## About me
-### 2nd semester student at ELTE IK
+### student at ELTE IK
 ### interests:
-  - doing intersting projects, solving interesting problems
-  - reading
   - AI
+  - computer science
   - maths
+  - reading
   - healthcare/medical science
   - robotics
   - automation
