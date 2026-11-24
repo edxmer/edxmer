@@ -9,9 +9,6 @@
   - robotics
   - automation
   - game dev
-### languages:
-- Fluent: Hungarian, English
-- Learning: German, Japanese
 ### favourite programming languages:
 `python` `c` `c++` `c#` `html/css/js`
 
